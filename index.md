@@ -1,7 +1,7 @@
 ---
 layout: home
 profile_picture:
-  src: /assets/img/profile_picture.jpg
+  src: https://github.com/leonardoVsantoro/assets/img/profile_picture.jpg
   alt: website picture
 ---
 
