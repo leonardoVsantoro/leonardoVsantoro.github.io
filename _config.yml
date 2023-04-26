@@ -62,3 +62,11 @@ exclude:
 
 # Used for defeating caching
 version: 1
+
+
+header:
+  pages:
+    - name: Home
+      slug: /     # <-- index.md
+    - name: Blog  # <-- blog.md
+    - name: Whatever  # <-- whatever.md
