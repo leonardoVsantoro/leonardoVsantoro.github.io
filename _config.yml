@@ -3,9 +3,9 @@
 
 title: Leonardo Santoro
 description: >- # this means to ignore newlines until "baseurl:"
-I am a PhD candidate in the chair of Mathematical Statistics at EPFL, supervised by prof. Victor Panaretos
-My research is centred around statistical inference for random processes and inverse problems arising in the context of Optimal Transport. 
-This often brings me in close contact with pure/applied probability, optimisation, machine learning and data science.
+"I am a PhD candidate in the chair of Mathematical Statistics at EPFL, supervised by prof. Victor Panaretos"
+#My research is centred around statistical inference for random processes and inverse problems arising in the context of Optimal Transport. 
+#This often brings me in close contact with pure/applied probability, optimisation, machine learning and data science."
 # baseurl: "/bay" # the subpath of the site
 url: "https://leonardovsantoro.github.io/" # the base hostname & protocol for the site
 og_image: /assets/img/profile-pic.jpg
