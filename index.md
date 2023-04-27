@@ -18,7 +18,7 @@ items:
 ---
 
 <p>
-  I am a PhD candidate at EPFL supervised by prof. <a href="https://people.epfl.ch/victor.panaretos">Victor Panaretos</a> focusing on Mathematical Statistics.
+  I am a PhD candidate at EPFL supervised by prof. <a href="https://people.epfl.ch/victor.panaretos">Victor Panaretos</a> in the chair of <a href="https://www.epfl.ch/labs/smat/">Mathematical Statistics</a>.
 <p>
     
 <p>
