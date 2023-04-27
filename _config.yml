@@ -20,25 +20,32 @@ footer:
   show_powered_by: true
   contact:
     - name: Email
-      value: leonardo.santoro@epfl.ch
-      link: mailto:leonardo.santoro@epfl.ch
+      value: yourmail@domain.com
+      link: mailto:yourmail@domain.com
     - name: WeChat
       value: YourWeChatUsername
       link: "#"
   follow:
-    - name: Twitter
-      link: http://twitter.com/YourTwitterUsername
-      username: "@YourTwitterUsername"
-    - name: Facebook
-      link: http://facebook.com/YourFacebookUsername
+    #- name: Twitter
+    #  link: http://twitter.com/YourTwitterUsername
+    #  username: "@YourTwitterUsername"
+   # - name: Facebook
+   #   link: http://facebook.com/YourFacebookUsername
     - name: LinkedIn
-      link: http://linkedin.com/in/YourLinkedInUsername
+      link: https://www.linkedin.com/in/leonardo-santoro-abab15203/
     - name: GitHub
-      link: http://github.com/YourGitHubUsername
-    - name: Dribbble
-      link: https://dribbble.com/YourDribbbleUsername
-    - name: RSS
-      link: /feed.xml
+      link: https://github.com/leonardoVsantoro
+   # - name: Dribbble
+   #   link: https://dribbble.com/YourDribbbleUsername
+   # - name: Weibo
+   #   link: http://weibo.com/u/YourWeiboUsername
+   # - name: RSS
+   #   link: /feed.xml
+    - name: ResearchGate
+      link: https://www.researchgate.net/profile/Leonardo-Santoro-2
+    - name: GoogleScholar
+      link: https://scholar.google.com/citations?user=1PB3OkEAAAAJ&hl=it&oi=sra
+
 
 # Build settings
 markdown: kramdown
@@ -64,36 +71,5 @@ exclude:
 version: 1
 
 
-header:
-  pages:
-    - name: Home
-      slug: /     # <-- index.md
-    - name: Blog  # <-- blog.md
-    - name: Whatever  # <-- whatever.md
 
 
-footer:
-  show_powered_by: true
-  contact:
-    - name: Email
-      value: yourmail@domain.com
-      link: mailto:yourmail@domain.com
-    - name: WeChat
-      value: YourWeChatUsername
-      link: "#"
-  follow:
-    - name: Twitter
-      link: http://twitter.com/YourTwitterUsername
-      username: "@YourTwitterUsername"
-    - name: Facebook
-      link: http://facebook.com/YourFacebookUsername
-    - name: LinkedIn
-      link: http://linkedin.com/in/YourLinkedInUsername
-    - name: GitHub
-      link: http://github.com/YourGitHubUsername
-    - name: Dribbble
-      link: https://dribbble.com/YourDribbbleUsername
-    - name: Weibo
-      link: http://weibo.com/u/YourWeiboUsername
-    - name: RSS
-      link: /feed.xml
