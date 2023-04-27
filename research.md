@@ -5,14 +5,14 @@ slug: /research
 items:
   - title: Statistical Optimal Transport
     image:
-      src: /assets/img/research/water.png
+      src: /assets/img/research/ot.png
       alt: water
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    description: Optimal transport (OT) arises as a mean for comparing probability measures. It endows the space of probability measures with a peculiar geometrical structure, paving the way for its application in statistics, machine learning, and applied mathematics.
   - title: Functional Data Analysis
     image:
-      src: /assets/img/research/sand.png
+      src: /assets/img/research/fda.png
       alt: sand
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+    description: Functional data analysis (FDA) is a branch of statistics that analyses data providing information about curves, surfaces or anything else varying over a continuum. In its most general form, under an FDA framework, each sample element of functional data is considered to be a random function.
 ---
 
 This is an example of a "Research" page, displaying your work, your interests, your projects.
