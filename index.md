@@ -26,5 +26,10 @@ I am interested in statistical inference for random processes and inverse proble
 This often brings me in close contact with pure/applied probability, optimisation, machine learning and data science.
 </p>
 
+<p>
+<a href="https://drive.google.com/file/d/1_PYzH8-wOuT78wAKTPdkZmi2g8Ji8mOA/view">Full CV.</a>
+</p>
+
+
 
 
