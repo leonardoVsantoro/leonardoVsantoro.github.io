@@ -11,10 +11,10 @@ google_analytics: "UA-121636368-3"
 
 header:
   pages:
-    - name: About
+    - name: about
       slug: /
-    - name: Research
-    - name: CV
+    - name: research
+    - name: cv
 
 footer:
   show_powered_by: true
