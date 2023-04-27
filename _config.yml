@@ -22,6 +22,8 @@ footer:
     - name: Email
       value: leonardo.santoro@epfl.ch
       link: mailto:leonardo.santoro@epfl.ch
+    - name: Location
+      value: Department of Mathematics EPFL, CH-1015 Lausanne (CH)
   #  - name: WeChat
   #    value: YourWeChatUsername
   #    link: "#"
