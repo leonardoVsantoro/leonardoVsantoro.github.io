@@ -4,8 +4,8 @@
 title: Leonardo Santoro
 description: >- # this means to ignore newlines until "baseurl:"
   Leonardo Santoro
-baseurl: "/tree/master" # the subpath of the site
-url: "https://github.com/leonardoVsantoro/leonardoVsantoro.github.io" # the base hostname & protocol for the site
+#baseurl: "/tree/master" # the subpath of the site
+#url: "https://leonardoVsantoro.github.io" # the base hostname & protocol for the site
 og_image: /assets/img/profile_picture.jpg
 google_analytics: "UA-121636368-3"
 
