@@ -20,11 +20,11 @@ footer:
   show_powered_by: true
   contact:
     - name: Email
-      value: yourmail@domain.com
-      link: mailto:yourmail@domain.com
-    - name: WeChat
-      value: YourWeChatUsername
-      link: "#"
+      value: leonardo.santoro@epfl.ch
+      link: mailto:leonardo.santoro@epfl.ch
+  #  - name: WeChat
+  #    value: YourWeChatUsername
+  #    link: "#"
   follow:
     #- name: Twitter
     #  link: http://twitter.com/YourTwitterUsername
