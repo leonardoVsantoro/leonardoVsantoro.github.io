@@ -24,6 +24,8 @@ footer:
       link: mailto:leonardo.santoro@epfl.ch
     - name: Location
       value: Department of Mathematics EPFL, CH-1015 Lausanne (CH)
+      link: https://www.google.com/maps/dir//Department+of+Mathematics,+EPFL+FSB+SMA,+Station+8,+1015+Lausanne,+Svizzera/@46.5201731,6.5266562,13z/data=!3m1!4b1!4m9!4m8!1m0!1m5!1m1!1s0x478c30fe0fe92fe5:0x98b5622112a251fd!2m2!1d6.5678555!2d46.5201805!3e3
+      
   #  - name: WeChat
   #    value: YourWeChatUsername
   #    link: "#"
