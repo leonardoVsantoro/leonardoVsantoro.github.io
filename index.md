@@ -1,5 +1,6 @@
 ---
 layout: home
+title: Research interests
 profile_picture:
   src: /assets/img/profile_picture.jpg
   alt: website picture
