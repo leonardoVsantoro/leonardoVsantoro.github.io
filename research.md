@@ -24,7 +24,7 @@ Leonardo V. Santoro, Kartik G. Waghmare, Victor M. Panaretos (2023)\
 \
 <em>Clinical-Pathological Evaluation and Prognostic Analysis of 228 Merkel Cell Carcinomas </em>.\
 Federica M. Santoro, Leonardo V. Santoro et al (2022)\
-<strong>bold Endocrine Pathology </strong> \[ <a href="https://arxiv.org/abs/2110.14433">arxiv</a> \]
+<strong>Endocrine Pathology </strong> \[ <a href="https://arxiv.org/abs/2110.14433">arxiv</a> \]
 \
 \
 <em>Widths of crossings in Poisson Boolean percolation </em>.\
