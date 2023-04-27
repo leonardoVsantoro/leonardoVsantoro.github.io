@@ -3,7 +3,7 @@ layout: home
 profile_picture:
   src: /assets/img/profile_picture.jpg
   alt: website picture
-  
+items:
   - title: Statistical Optimal Transport
     image:
       src: /assets/img/research/ot.png
