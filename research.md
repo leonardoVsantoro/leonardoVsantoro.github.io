@@ -7,7 +7,7 @@ slug: /research
 <!--- 
 Preprints and accepted papers.
 -->
-<em> Functional Data Analysis of flows of covariance operators in the Bures-Wasserstein space</em>.\
+<em> Random Flows of Covariance Operators and their Statistical Inference</em>.\
 Leonardo V. Santoro, Victor M. Panaretos (2023+)\
 In preparation
 \
