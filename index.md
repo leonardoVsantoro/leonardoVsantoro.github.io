@@ -5,7 +5,6 @@ profile_picture:
   src: /assets/img/profile_picture.jpg
   alt: website picture
 items:
-My research focuses on:
   - title: Statistical Optimal Transport
     image:
       src: /assets/img/research/ot.png
@@ -30,6 +29,23 @@ This often brings me in close contact with pure/applied probability, optimisatio
 <p>
 <a href="https://drive.google.com/file/d/1_PYzH8-wOuT78wAKTPdkZmi2g8Ji8mOA/view">Full CV.</a>
 </p>
+
+
+
+<p>
+<p>
+  
+  
+<p>
+<p>
+  
+  
+<p>
+  \Large \textbf{My research interests}
+<p>
+  
+
+
 
 
 
