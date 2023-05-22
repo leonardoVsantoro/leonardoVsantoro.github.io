@@ -31,17 +31,11 @@ This often brings me in close contact with pure/applied probability, optimisatio
 </p>
 
 
-
-<p>
-<p>
+<br/><br/>
   
   
 <p>
-<p>
-  
-  
-<p>
-  \Large \textbf{My research interests}
+  <h4>My research interests</h4>
 <p>
   
 
