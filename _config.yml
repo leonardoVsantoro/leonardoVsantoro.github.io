@@ -14,7 +14,7 @@ header:
     - name: about
       slug: /
     - name: research
-    - name: cv
+    #- name: cv
 
 footer:
   show_powered_by: true
