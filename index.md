@@ -31,12 +31,12 @@ This often brings me in close contact with pure/applied probability, optimisatio
 </p>
 
 
-<br/><br/>
+<!-- <br/><br/>
   
   
 <p>
   <h4>My research interests</h4>
-<p>
+<p> -->
   
 
 
