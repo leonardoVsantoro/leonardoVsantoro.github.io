@@ -5,6 +5,7 @@ profile_picture:
   src: /assets/img/profile_picture.jpg
   alt: website picture
 items:
+My research focuses on:
   - title: Statistical Optimal Transport
     image:
       src: /assets/img/research/ot.png
