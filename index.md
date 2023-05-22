@@ -5,7 +5,7 @@ profile_picture:
   src: /assets/img/profile_picture.jpg
   alt: website picture
   
-item_title: Research
+item_title: My research interests
 items:
   - title: Statistical Optimal Transport
     image:
