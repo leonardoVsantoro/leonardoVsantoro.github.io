@@ -1,6 +1,6 @@
 ---
 layout: home
-title: home
+#title: Research
 profile_picture:
   src: /assets/img/profile_picture.jpg
   alt: website picture
