@@ -14,7 +14,7 @@ In preparation
 \
 <em>Large Sample Theory for Bures-Wasserstein Barycenters</em>.\
 Leonardo V. Santoro, Victor M. Panaretos (2023+)\
-In preparation
+\[ <a href="https://arxiv.org/abs/2305.15592">arxiv</a> \]
 \
 \
 <em>A Karhunen–Loève Theorem for Random Flows in Hilbert spaces </em>.\
