@@ -18,12 +18,6 @@ items:
       alt: fda
     description: Functional data analysis (FDA) is a branch of statistics that analyses data providing information about curves, surfaces or anything else varying over a continuum. In its most general form, under an FDA framework, each sample element of functional data is considered to be a random function.
 
-item_title: Career
-items:
-  - title: ETH
-    description: Master's degree.
-  - title: Università degli Studi di Trento
-    description: Bachelor's degree.
 ---
 
 <p>
