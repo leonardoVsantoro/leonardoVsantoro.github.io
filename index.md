@@ -15,7 +15,7 @@ items:
     description:  Research stay hosted by prof. Steve Evans, fall semester.
   - title: Oct.2020-current,  EPFL (Lausanne, CH)
     image:
-      src: /assets/img/career/EPFL.png
+      src: /assets/img/career/epfl.png
       alt: epfl
     description:  PhD candidate in Mathematical Statistics, supervised by prof. Victor Panaretos.
   - title: Apr. - Oct. 2020,   Teralytics AG (Zürich, CH)
@@ -25,12 +25,12 @@ items:
     description: Machine Learning intern in the Data Science team.
   - title: Sept. 2018 - March 2020, ETH (Zürich, CH)
     image:
-      src: /assets/img/career/ETH.png
+      src: /assets/img/career/eth.png
       alt: eth
     description:  Master's degree in Mathematics.
   - title: Sept. 2015 - Jul.2018,   Università degli Studi di Trento (IT)
     image:
-      src: /assets/img/career/UNITN.png
+      src: /assets/img/career/unitn.png
       alt: unitn
     description:  Bachelor's degree in Mathematics.
 
