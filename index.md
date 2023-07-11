@@ -5,12 +5,9 @@ profile_picture:
   src: /assets/img/profile_picture.jpg
   alt: website picture
 
-
-
-
 item_title: Career
 items:
-  - title: 2023   UC Berkeley, (US)
+  - title: Sept. - Dec. 2023 UC Berkeley, (US)
       image:
         src: /assets/img/career/berkeley.png
         alt: berkeley
@@ -30,14 +27,11 @@ items:
         src: /assets/img/career/ETH.png
         alt: eth
       description: Master's degree in Mathematics. 
-    - title: Sept. 2015 - Jul.2018   Università degli Studi di Trento (IT)
+  - title: Sept. 2015 - Jul.2018   Università degli Studi di Trento (IT)
       image:
         src: /assets/img/career/UNITN.png
         alt: unitn
       description: Bachelor's degree in Mathematics
-
-
-
 
 
 ---
