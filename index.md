@@ -6,7 +6,7 @@ profile_picture:
   alt: website picture
 
 
-item_title: Career
+item_title: Experience
 items:
   - title: Sep. - Dec. 2023, University of California, Berkeley (US)
     image:
