@@ -21,7 +21,6 @@ items:
 Preprints and accepted papers.
 -->
 <h3>Preprints and accepted papers</h3>
-\
 <em> Random Flows of Covariance Operators and their Statistical Inference</em>.\
 Leonardo V. Santoro, Victor M. Panaretos (2023+)\
 In preparation
