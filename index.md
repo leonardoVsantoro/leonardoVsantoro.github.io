@@ -4,8 +4,8 @@ layout: home
 profile_picture:
   src: /assets/img/profile_picture.jpg
   alt: website picture
- 
 
+ 
 item_title: Experience
 items:
   - title: Sep. - Dec. 2023, University of California, Berkeley (US)
