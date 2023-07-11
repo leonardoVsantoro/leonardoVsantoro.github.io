@@ -1,6 +1,6 @@
 ---
 layout: research
-title: Research
+title: Research 
 slug: /research
 
 item_title: My research interests
@@ -20,8 +20,7 @@ items:
 <!--- 
 Preprints and accepted papers.
 -->
-<h2>Preprints and accepted papers</h2>
-\
+<h3>Preprints and accepted papers</h3>
 \
 <em> Random Flows of Covariance Operators and their Statistical Inference</em>.\
 Leonardo V. Santoro, Victor M. Panaretos (2023+)\
