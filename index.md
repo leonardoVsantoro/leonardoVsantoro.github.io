@@ -10,7 +10,6 @@ item_title: Experience
 items:
   - title: Sep. - Dec. 2023, University of California, Berkeley (US)
     image:
-      href: "https://www.berkeley.edu/"
       src: /assets/img/career/berkeley.png
       alt: ucb
     description:  Research stay hosted by prof. Steve Evans, fall semester.
