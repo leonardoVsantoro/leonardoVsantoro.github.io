@@ -27,7 +27,7 @@ In preparation
 \
 \
 <em>Large Sample Theory for Bures-Wasserstein Barycenters</em>.\
-Leonardo V. Santoro, Victor M. Panaretos (2023+)\
+Leonardo V. Santoro, Victor M. Panaretos (2023)\
 \[ <a href="https://arxiv.org/abs/2305.15592">arxiv</a> \]
 \
 \
