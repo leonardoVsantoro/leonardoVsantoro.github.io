@@ -13,7 +13,7 @@ items:
       src: /assets/img/career/berkeley.png
       alt: ucb
     description:  Research stay hosted by prof. Steve Evans, fall semester.
-  - title: Oct.2020-current,  EPFL (Lausanne, CH)
+  - title: Oct. 2020 - current,  EPFL (Lausanne, CH)
     image:
       src: /assets/img/career/epfl.png
       alt: epfl
