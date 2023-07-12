@@ -28,9 +28,8 @@
           {% for item in page.items %}
           <div class="work-item">
             <img
-              <a href="{{ item.image.href}}"><src="{{ item.image.src | absolute_url }}"></a>
+              src="{{ item.image.src | absolute_url }}"
               alt="{{ item.image.alt }}"
-              href="{{ item.image.href }}"
               class="work-bubble"
             />
             <span class="work-text">
