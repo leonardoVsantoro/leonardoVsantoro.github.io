@@ -13,19 +13,16 @@ items:
       src: assets/img/career/berkeley.png
       alt: ucb
     description:  Research stay hosted by prof. Steve Evans, fall semester.
-    
   - title: Oct. 2020 - current,   <a href="https://www.epfl.ch/en/">EPFL</a> (Lausanne, CH)
     image:
       src: /assets/img/career/epfl.png
       alt: epfl
     description:  PhD candidate in Mathematical Statistics, supervised by prof. Victor Panaretos.
-    
   - title: Apr. - Oct. 2020,   <a href="https://teralytics.net/">Teralytics AG</a> (Zürich, CH)
     image:
       src: /assets/img/career/teralytics.png
       alt: teralytics
     description: Machine Learning intern in the Data Science team.
-    
   - title: Sept. 2018 - March 2020,  <a href="https://ethz.ch/en.html">ETH</a> (Zürich, CH)
     image:
       src: /assets/img/career/eth.png
