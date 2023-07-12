@@ -4,8 +4,7 @@ layout: home
 profile_picture:
   src: /assets/img/profile_picture.jpg
   alt: website picture
- 
- 
+
 </p>
 item_title: Experience
 items:
