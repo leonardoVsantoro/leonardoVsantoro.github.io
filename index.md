@@ -28,8 +28,12 @@ items:
       src: /assets/img/career/eth.png
       alt: eth
     description:  Master's degree in Mathematics.
-  - ti
-    
+  - title: Sept. 2015 - Jul.2018,   <a href="https://www.unitn.it/">Università degli Studi di Trento (IT)</a> 
+    image:
+      src: /assets/img/career/unitn.png
+      alt: unitn
+    description:  Bachelor's degree in Mathematics.
+
 ---
 <p>
   I am a PhD candidate at EPFL advised by <a href="https://people.epfl.ch/victor.panaretos">Victor Panaretos</a> in the chair of <a href="https://www.epfl.ch/labs/smat/">Mathematical Statistics</a>.
