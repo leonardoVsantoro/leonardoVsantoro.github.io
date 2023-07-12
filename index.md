@@ -11,7 +11,7 @@ items:
   - title: Sep. - Dec. 2023, University of California, Berkeley (US)
     image:
       src: /assets/img/career/berkeley.png
-      alt: ucb
+      alt: "https://www.berkeley.edu/"
     description:  Research stay hosted by prof. Steve Evans, fall semester.
   - title: Oct. 2020 - current,  EPFL (Lausanne, CH)
     image:
