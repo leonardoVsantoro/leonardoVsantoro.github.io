@@ -43,9 +43,16 @@ items:
 I am interested in statistical inference for random processes and inverse problems arising in the context of optimal transport and functional data analysis. 
 This often brings me in close contact with pure/applied probability, optimisation and data science.
 </p>
+
 <!--
 <p>
 <a href="https://drive.google.com/file/d/1_PYzH8-wOuT78wAKTPdkZmi2g8Ji8mOA/view">Full CV.</a>
 </p>
 -->
+
 <!-- <br/><br/>
+  
+  
+<p>
+  <h4>My research interests</h4>
+<p> -->
