@@ -8,12 +8,12 @@ profile_picture:
 </p>
 item_title: Experience
 items:
-  - title: Sep. - Dec. 2023, <a href="https://www.berkeley.edu/">University of California Berkeley</a> (US)
+  - title: Sep. - Dec. 2023, <a href="https://www.berkeley.edu/">University of California Berkeley (US)</a> 
     image:
       src: assets/img/career/berkeley.png
       alt: ucb
     description:  Research stay hosted by prof. Steve Evans, fall semester.
-  - title: Oct. 2020 - current,   <a href="https://www.epfl.ch/en/">EPFL</a> (Lausanne, CH)
+  - title: Oct. 2020 - current,   <a href="https://www.epfl.ch/en/">EPFL (Lausanne, CH)</a> 
     image:
       src: /assets/img/career/epfl.png
       alt: epfl
@@ -23,12 +23,12 @@ items:
       src: /assets/img/career/teralytics.png
       alt: teralytics
     description: Machine Learning intern in the Data Science team.
-  - title: Sept. 2018 - March 2020,  <a href="https://ethz.ch/en.html">ETH</a> (Zürich, CH)
+  - title: Sept. 2018 - March 2020,  <a href="https://ethz.ch/en.html">ETH (Zürich, CH)</a> 
     image:
       src: /assets/img/career/eth.png
       alt: eth
     description:  Master's degree in Mathematics.
-  - title: Sept. 2015 - Jul.2018,   <a href="https://www.unitn.it/">Università degli Studi di Trento</a> (IT)
+  - title: Sept. 2015 - Jul.2018,   <a href="https://www.unitn.it/">Università degli Studi di Trento (IT)</a> 
     image:
       src: /assets/img/career/unitn.png
       alt: unitn
