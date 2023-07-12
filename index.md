@@ -6,30 +6,34 @@ profile_picture:
   alt: website picture
  
  
+</p>
 item_title: Experience
 items:
-  - title: Sep. - Dec. 2023, University of California, Berkeley (US)
+  - title: Sep. - Dec. 2023, <a href="https://www.berkeley.edu/">University of California Berkeley</a> (US)
     image:
       src: assets/img/career/berkeley.png
       alt: ucb
       href: https://www.berkeley.edu
     description:  Research stay hosted by prof. Steve Evans, fall semester.
-  - title: Oct. 2020 - current,  EPFL (Lausanne, CH)
+    
+  - title: Oct. 2020 - current,   <a href="https://www.epfl.ch/en/">EPFL</a> (Lausanne, CH)
     image:
       src: /assets/img/career/epfl.png
       alt: epfl
     description:  PhD candidate in Mathematical Statistics, supervised by prof. Victor Panaretos.
-  - title: Apr. - Oct. 2020,   Teralytics AG (Zürich, CH)
+    
+  - title: Apr. - Oct. 2020,   <a href="https://teralytics.net/">Teralytics AG</a> (Zürich, CH)
     image:
       src: /assets/img/career/teralytics.png
       alt: teralytics
     description: Machine Learning intern in the Data Science team.
-  - title: Sept. 2018 - March 2020, ETH (Zürich, CH)
+    
+  - title: Sept. 2018 - March 2020,  <a href="https://ethz.ch/en.html">ETH</a> (Zürich, CH)
     image:
       src: /assets/img/career/eth.png
       alt: eth
     description:  Master's degree in Mathematics.
-  - title: Sept. 2015 - Jul.2018,   Università degli Studi di Trento (IT)
+  - title: Sept. 2015 - Jul.2018,   <a href="https://www.unitn.it/">Università degli Studi di Trento</a> (IT)
     image:
       src: /assets/img/career/unitn.png
       alt: unitn
@@ -39,7 +43,7 @@ items:
 ---
 
 <p>
-  I am a PhD candidate at EPFL advised by <a href="https://people.epfl.ch/victor.panaretos">Victor Panaretos</a> in the <a href="https://www.epfl.ch/labs/smat/">chair of Mathematical Statistics</a>.
+  I am a PhD candidate at EPFL advised by <a href="https://people.epfl.ch/victor.panaretos">Victor Panaretos</a> in the chair of <a href="https://www.epfl.ch/labs/smat/">Mathematical Statistics</a>.
 <p>
     
 <p>
