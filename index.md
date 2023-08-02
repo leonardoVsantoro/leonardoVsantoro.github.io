@@ -45,11 +45,11 @@ This often brings me in close contact with pure/applied probability, optimisatio
 </p>
 
 <p>
-Next semester (Winter 2023) I will visiting prof. <a href="[https://people.epfl.ch/victor.panaretos](https://www.stat.berkeley.edu/~evans/)">Steve Evans </a> in Berkeley (US).
+Next semester (Winter 2023) I will visiting prof. <a href="[https://people.epfl.ch/victor.panaretos](https://www.stat.berkeley.edu/~evans/)">Steve Evans </a> in <a href="https://www.berkeley.edu/">Berkeley (US)</a>.
 </p>
 
 <p>
-You may find my full CV <a href="https://drive.google.com/file/d/1_PYzH8-wOuT78wAKTPdkZmi2g8Ji8mOA/view"> here</a>.
+You may find my full CV <a href="https://drive.google.com/file/d/1fIsf61XUhAyjE5--1Q4-Kn9BLbog3-TP/view?usp=drive_link"> here</a>.
 </p>
 
 <!-- <br/><br/>
