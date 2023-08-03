@@ -45,7 +45,7 @@ This often brings me in close contact with pure/applied probability, optimisatio
 </p>
 
 <p>
-Next semester (Winter 2023) I will visiting prof. <a href="[https://people.epfl.ch/victor.panaretos](https://www.stat.berkeley.edu/~evans/)">Steve Evans </a> in <a href="https://www.berkeley.edu/">Berkeley (US)</a>.
+The coming semester (Autumn 2023) I will be at  <a href="https://www.berkeley.edu/"> UC Berkeley</a>, where I will be visiting prof. <a href="https://www.stat.berkeley.edu/~evans/">Steve Evans</a>. 
 </p>
 
 <p>
