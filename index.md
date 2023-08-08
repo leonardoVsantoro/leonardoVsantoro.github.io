@@ -45,7 +45,7 @@ This often brings me in close contact with pure/applied probability, optimisatio
 </p>
 
 <p>
-The coming semester (Autumn 2023) I will be at  <a href="https://www.berkeley.edu/"> UC Berkeley</a>, where I will be visiting prof. <a href="https://www.stat.berkeley.edu/~evans/">Steve Evans</a>. 
+The coming semester (Autumn 2023) I will be at  <a href="https://www.berkeley.edu/"> UC Berkeley</a>, where I will be visiting <a href="https://www.stat.berkeley.edu/~evans/">Steve Evans</a>. 
 </p>
 
 <p>
