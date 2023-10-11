@@ -12,8 +12,21 @@ Spring 2021                  <a href='http://isa.epfl.ch/imoniteur_ISAP/!itffich
 
 
 <h3>Mentoring</h3>
-<em> Amplitude and Phase variation of COVID-19 using Optimal Transport </em>, Francesco Tripoli (Winter 2023, Master's thesis)\
-<em> Analysis methods for Spectral Light Exposure Timeseries Data</em>, Fahim Beck (Spring 2023, Master's thesis)\
-<em> Computational Optimal Transport</em>,  Beji Qayis (Spring 2023, Master's project)\
-<em> Forecasting Electricity Consumption with Functional Time Series</em>, Maxence Robaux (Winter 2022, Master's project)\
-<em> FPCA: application to COVID-19 data</em>, Leonardo Barbieri (Spring 2021, Bachelor's Thesis)
+<em> Amplitude and Phase variation of COVID-19 using Optimal Transport </em>\
+Francesco Tripoli (Winter 2023, Master's thesis)
+\
+\
+<em> Analysis methods for Spectral Light Exposure Timeseries Data</em>\
+Fahim Beck (Spring 2023, Master's thesis)
+\
+\
+<em> Computational Optimal Transport</em>\
+Beji Qayis (Spring 2023, Master's project)
+\
+\
+<em> Forecasting Electricity Consumption with Functional Time Series</em>\
+Maxence Robaux (Winter 2022, Master's project)
+\
+\
+<em> FPCA: application to COVID-19 data</em>\
+Leonardo Barbieri (Spring 2021, Bachelor's Thesis)
