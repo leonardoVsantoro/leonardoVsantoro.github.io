@@ -28,7 +28,7 @@ Leonardo V. Santoro,  Adam Q. Jaffe (2023+)\
 In preparation
 \
 \
-<em> Nonparametric estimation for Fuctional Vasicek model, with application to dinancial data </em>.\
+<em> Nonparametric Estimation for Fuctional Vasicek Model, with Application to Financial Data </em>.\
 Leonardo V. Santoro,  Neda M. Jouzdani, Piotr S. Kokoszka,  Hong Miao (2023+)\
 In preparation
 \
