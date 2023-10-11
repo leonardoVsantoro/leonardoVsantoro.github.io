@@ -8,7 +8,6 @@ slug: /teaching
 Spring  2022, 2023           <a href="https://moodle.epfl.ch/course/view.php?id=10071">Statistique</a> (prof. Victor Panaretos, prof. Yoav Zemel)\
 Winter 2020, 2021, 2022      <a href='https://moodle.epfl.ch/course/view.php?id=14238'>Statistical Theory</a> (prof. Erwan Koch)\
 Spring 2021                  <a href='http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htmww_i_matiere=2217230230&ww_x_anneeacad=2301874614&ww_i_section=84482813&ww_i_niveau=2936295&ww_c_langue=fr]'>Applied Biostatistics</a>(prof. Darlene Goldstein)
-\
 
 
 
