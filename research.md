@@ -1,7 +1,7 @@
 ---
 layout: research
-title: Research 
-slug: /research
+title: Teaching 
+slug: /teaching
 
 item_title: My research interests
 items:
