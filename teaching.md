@@ -1,7 +1,7 @@
 ---
 layout: research
-title: Research 
-slug: /research
+title: Teachng 
+slug: /teaching
 
 ---
 <h3>Teaching assistant</h3>
