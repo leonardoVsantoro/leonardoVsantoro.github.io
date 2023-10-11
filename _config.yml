@@ -14,6 +14,7 @@ header:
     - name: about
       slug: /
     - name: research
+    - name: teaching
     #- name: cv
 
 footer:
