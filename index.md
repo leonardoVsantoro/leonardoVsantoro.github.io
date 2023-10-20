@@ -49,7 +49,7 @@ The coming semester (Autumn 2023) I will be at  <a href="https://www.berkeley.ed
 </p>
 
 <p>
-You may find my full CV <a href="https://drive.google.com/file/d/1fIsf61XUhAyjE5--1Q4-Kn9BLbog3-TP/view?usp=drive_link"> here</a>.
+You may find my full CV <a href="https://drive.google.com/drive/folders/1tsPGMpwsOav6iSnlGpiR-pAZg7LssjbX"> here</a>.
 </p>
 
 <!-- <br/><br/>
