@@ -39,8 +39,8 @@ In preparation
 \
 \
 <em> Random Flows of Covariance Operators and their Statistical Inference</em>.\
-with Victor M. Panaretos (2023+)\
-In preparation
+with Victor M. Panaretos (2023)\
+\[ <a href="https://arxiv.org/abs/2310.13764">arxiv</a> \] - under review at <strong>Journal of the American Statistical Association</strong>.
 \
 \
 <em>Large Sample Theory for Bures-Wasserstein Barycenters</em>.\
