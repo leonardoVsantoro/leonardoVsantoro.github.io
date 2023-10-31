@@ -65,6 +65,6 @@ with Ioan Manolescu (2022)\
 \
 <em>Nonparametric Estimation for SDE with Sparsely Sampled Paths: an FDA Perspective </em>.\
 with Neda M. Jouzdani, Victor M. Panaretos (2021)\
-\[ <a href="https://arxiv.org/abs/2110.14433">arxiv</a> \] - to appear in <strong>Stochastic Processes and their Applications</strong>.
+<strong>Stochastic Processes and their Applications</strong> \[<a href="https://www.sciencedirect.com/science/article/pii/S0304414923002119?via%3Dihub"Elsevier\]\[ <a href="https://arxiv.org/abs/2110.14433">arxiv</a> \]
 
 <br />
