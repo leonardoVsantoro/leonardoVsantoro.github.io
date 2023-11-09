@@ -55,7 +55,7 @@ with Kartik G. Waghmare, Victor M. Panaretos (2023)\
 \
 <em>Clinical-Pathological Evaluation and Prognostic Analysis of 228 Merkel Cell Carcinomas </em>.\
 with Federica M. Santoro et al (2022)\
-<strong>Endocrine Pathology </strong> \[ <a href="https://pubmed.ncbi.nlm.nih.gov/35551625/">PubMed</a> \]
+<strong>Endocrine Pathology </strong> \[ <a href="https://pubmed.ncbi.nlm.nih.gov/35551625/">journal</a> \]
 \
 \
 <em>Widths of crossings in Poisson Boolean percolation </em>.\
@@ -65,6 +65,6 @@ with Ioan Manolescu (2022)\
 \
 <em>Nonparametric Estimation for SDE with Sparsely Sampled Paths: an FDA Perspective </em>.\
 with Neda M. Jouzdani, Victor M. Panaretos (2021)\
-<strong>Stochastic Processes and their Applications</strong> \[ <a href="https://www.sciencedirect.com/science/article/pii/S0304414923002119?via%3Dihub">Elsevier</a>\] \[ <a href="https://arxiv.org/abs/2110.14433">arxiv</a> \]
+<strong>Stochastic Processes and their Applications</strong> \[ <a href="https://doi.org/10.1016/j.spa.2023.104239">journal</a>\] \[ <a href="https://arxiv.org/abs/2110.14433">arxiv</a> \]
 
 <br />
