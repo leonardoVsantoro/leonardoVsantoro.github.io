@@ -24,17 +24,27 @@ Preprints and accepted papers.
 
 
 <em> Large Deviations for Wasserstein Barycenters</em>.\
-with  Adam Q. Jaffe (2023+)\
+with  Adam Q. Jaffe (2024+)\
 In preparation
 \
 \
-<em> Nonparametric Estimation for Fuctional Vasicek Model, with Application to Financial Data </em>.\
-with Neda M. Jouzdani, Piotr S. Kokoszka,  Hong Miao (2023+)\
+<em> Functional Registration for Covariance Flows via Local Variation Measure </em>.\
+with  Victor M. Panaretos (2024+)\
 In preparation
 \
 \
 <em> Analysis Methods for Spectral Light Exposure Timeseries Data: a Neural Network approach </em>.\
-with  Steffen Hartmayer (2023+)\
+with  Steffen Hartmayer (2024+)\
+In preparation
+\
+\
+<em> Time Dynamics of Covid-19 and Social Distancing: study of Amplitude and Phase Variation of a pandemic</em>.\
+with  Tomas Masak and Francesco Tripoli (2024+)\
+In preparation
+\
+\
+<em> Nonparametric Estimation for Fuctional Vasicek Model, with Application to Financial Data </em>.\
+with Neda M. Jouzdani, Piotr S. Kokoszka,  Hong Miao (2024+)\
 In preparation
 \
 \
