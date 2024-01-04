@@ -31,11 +31,11 @@ In preparation
 with  Victor M. Panaretos (2024+)\
 In preparation
 
-3. <em> Analysis Methods for Spectral Light Exposure Timeseries Data: a Neural Network approach </em>.\
+3. <em> Analysis Methods for Spectral Light Exposure Timeseries Data using Neural Networks </em>.\
 with  Steffen Hartmayer (2024+)\
 In preparation
 
-4. <em> Time Dynamics of Covid-19 and Social Distancing: study of Amplitude and Phase Variation of a pandemic</em>.\
+4. <em> Time Dynamics of Covid-19 and Social Distancing: Amplitude and Phase Variation of a pandemic</em>.\
 with  Tomas Masak and Francesco Tripoli (2024+)\
 In preparation
 
