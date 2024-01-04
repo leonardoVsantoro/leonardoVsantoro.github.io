@@ -44,16 +44,17 @@ I am interested in statistical inference for random processes and inverse proble
 This often brings me in close contact with pure/applied probability, optimisation and data science.
 </p>
 
-<p>
-The coming semester (Autumn 2023) I will be at  <a href="https://www.berkeley.edu/"> UC Berkeley</a>, where I will be visiting <a href="https://www.stat.berkeley.edu/~evans/">Steve Evans</a>. 
-</p>
+
 
 <p>
 You may find my full CV <a href="https://drive.google.com/file/d/1vUUocMjDI9hUCY9F7PVYDK6TC1GUVgyl/view?usp=share_link"> here</a>.
 </p>
 
 <!-- <br/><br/>
-  
+
+ <p>
+The coming semester (Autumn 2023) I will be at  <a href="https://www.berkeley.edu/"> UC Berkeley</a>, where I will be visiting <a href="https://www.stat.berkeley.edu/~evans/">Steve Evans</a>. 
+</p> 
   
 <p>
   <h4>My research interests</h4>
