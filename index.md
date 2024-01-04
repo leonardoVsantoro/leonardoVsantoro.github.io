@@ -8,17 +8,16 @@ profile_picture:
  
 item_title: Experience
 items:
-  
   - title: Oct. 2020 - current,   <a href="https://www.epfl.ch/en/">EPFL (Lausanne, CH)</a> 
     image:
       src: /assets/img/career/epfl.png
       alt: epfl
     description:  PhD candidate in Mathematical Statistics, supervised by prof. Victor Panaretos.
   - title: Sep. - Dec. 2023, <a href="https://www.berkeley.edu/">University of California Berkeley (US)</a> 
-  image:
-    src: assets/img/career/berkeley.png
-    alt: ucb
-  description:  Research stay hosted by prof. Steve Evans, fall semester.
+    image:
+      src: assets/img/career/berkeley.png
+      alt: ucb
+    description:  Research stay hosted by prof. Steve Evans, fall semester.
   - title: Apr. - Oct. 2020,   <a href="https://teralytics.net/">Teralytics AG (Zürich, CH)</a> 
     image:
       src: /assets/img/career/teralytics.png
