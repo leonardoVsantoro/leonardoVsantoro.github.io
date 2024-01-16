@@ -43,7 +43,7 @@ In preparation
 
 <h3>Preprints</h3>
 
-1. <em> Functional Va{\v{s}}i{\v{c}}ek Model </em>.\
+1. <em> Functional Vasicek Model </em>.\
 with Neda M. Jouzdani, Piotr S. Kokoszka,  Hong Miao (2024+)\
 under review at <strong>Mathematical Finance</strong>
 
