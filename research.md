@@ -39,25 +39,27 @@ In preparation
 with  Tomas Masak and Francesco Tripoli (2024+)\
 In preparation
 
-5. <em> Nonparametric Estimation for Fuctional Vasicek Model, with Application to Financial Data </em>.\
-with Neda M. Jouzdani, Piotr S. Kokoszka,  Hong Miao (2024+)\
-In preparation
 
 
 <h3>Preprints</h3>
-1. <em> Random Flows of Covariance Operators and their Statistical Inference</em>.\
+
+1. <em> Nonparametric Estimation for Fuctional Vasicek Model, with Application to Financial Data </em>.\
+with Neda M. Jouzdani, Piotr S. Kokoszka,  Hong Miao (2024+)\
+under review at <strong>Mathematical Finance</strong>
+
+2. <em> Random Flows of Covariance Operators and their Statistical Inference</em>.\
 with Victor M. Panaretos (2023)\
 \[ <a href="https://arxiv.org/abs/2310.13764">arxiv</a> \] - under review at <strong>Journal of the American Statistical Association</strong>
 
-2. <em>Large Sample Theory for Bures-Wasserstein Barycenters</em>.\
+3. <em>Large Sample Theory for Bures-Wasserstein Barycenters</em>.\
 with Victor M. Panaretos (2023)\
 \[ <a href="https://arxiv.org/abs/2305.15592">arxiv</a> \] - under review at <strong>Annals of Applied Probability</strong>.
 
-3. <em>A Karhunen–Loève Theorem for Random Flows in Hilbert spaces </em>.\
+4. <em>A Karhunen–Loève Theorem for Random Flows in Hilbert spaces </em>.\
 with Kartik G. Waghmare, Victor M. Panaretos (2023)\
 \[ <a href="https://arxiv.org/abs/2303.00702">arxiv</a> \] - under review at <strong>Electronic Communications in Probability</strong>.
 
-4. <em>Widths of crossings in Poisson Boolean percolation </em>.\
+5. <em>Widths of crossings in Poisson Boolean percolation </em>.\
 with Ioan Manolescu (2022)\
 \[ <a href="https://arxiv.org/abs/2211.11661">arxiv</a> \] - under review at <strong>Advances in Applied Probability</strong>.
 
