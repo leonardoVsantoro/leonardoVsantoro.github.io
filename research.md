@@ -43,7 +43,7 @@ In preparation
 
 <h3>Preprints</h3>
 
-1. <em> Nonparametric Estimation for Fuctional Vasicek Model, with Application to Financial Data </em>.\
+1. <em> Functional Vaˇsiˇcek Model </em>.\
 with Neda M. Jouzdani, Piotr S. Kokoszka,  Hong Miao (2024+)\
 under review at <strong>Mathematical Finance</strong>
 
