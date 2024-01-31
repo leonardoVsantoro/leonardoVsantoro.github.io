@@ -47,7 +47,7 @@ This often brings me in close contact with pure/applied probability, optimisatio
 
 
 <p>
-You may find my full CV <a href="https://drive.google.com/file/d/1vUUocMjDI9hUCY9F7PVYDK6TC1GUVgyl/view?usp=share_link"> here</a>.
+You may find my full CV <a href="https://drive.google.com/file/d/12CBcqyufBB1K-WLaqcSWc6nw6AuceUC2/view?usp=sharing"> here</a>.
 </p>
 
 <!-- <br/><br/>
