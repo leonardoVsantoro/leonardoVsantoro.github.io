@@ -55,11 +55,7 @@ with Victor M. Panaretos (2023)\
 with Victor M. Panaretos (2023)\
 \[ <a href="https://arxiv.org/abs/2305.15592">arxiv</a> \] - under review at <strong>Annals of Applied Probability</strong>.
 
-4. <em>A Karhunen–Loève Theorem for Random Flows in Hilbert spaces </em>.\
-with Kartik G. Waghmare, Victor M. Panaretos (2023)\
-\[ <a href="https://arxiv.org/abs/2303.00702">arxiv</a> \] - under review at <strong>Electronic Communications in Probability</strong>.
-
-5. <em>Widths of crossings in Poisson Boolean percolation </em>.\
+4. <em>Widths of crossings in Poisson Boolean percolation </em>.\
 with Ioan Manolescu (2022)\
 \[ <a href="https://arxiv.org/abs/2211.11661">arxiv</a> \] - under review at <strong>Advances in Applied Probability</strong>.
 
@@ -74,4 +70,9 @@ with Federica M. Santoro et al (2022)\
 2. <em>Nonparametric Estimation for SDE with Sparsely Sampled Paths: an FDA Perspective </em>.\
 with Neda M. Jouzdani, Victor M. Panaretos (2021)\
 <strong>Stochastic Processes and their Applications</strong> \[ <a href="https://doi.org/10.1016/j.spa.2023.104239">journal</a>\] \[ <a href="https://arxiv.org/abs/2110.14433">arxiv</a> \]
+
+3. <em>A Karhunen–Loève Theorem for Random Flows in Hilbert spaces </em>.\
+with Kartik G. Waghmare, Victor M. Panaretos (2023)\
+<strong>Electronic Communications in Probability</strong> \[ <a href="https://arxiv.org/abs/2303.00702">arxiv</a> \]  .
+
 <br />
