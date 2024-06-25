@@ -49,13 +49,13 @@ under review at <strong>Mathematical Finance</strong>
 
 2. <em> Statistical Inference for Bures-Wasserstein Flows</em>.\
 with Victor M. Panaretos (2024+)\
-\[ <a href="https://arxiv.org/abs/2310.13764">arxiv</a> \] - under review at <strong>Annals of Probability</strong>
+\[ <a href="https://arxiv.org/abs/2310.13764">arxiv</a> \] - under review at <strong>Annals of Statistics</strong>
 
-3. <em>Large Sample Theory for Bures-Wasserstein Barycenters</em>.\
+4. <em>Large Sample Theory for Bures-Wasserstein Barycenters</em>.\
 with Victor M. Panaretos (2023+)\
 \[ <a href="https://arxiv.org/abs/2305.15592">arxiv</a> \] - under review at <strong>Annals of Applied Probability</strong>.
 
-4. <em>Widths of crossings in Poisson Boolean percolation </em>.\
+5. <em>Widths of crossings in Poisson Boolean percolation </em>.\
 with Ioan Manolescu (2022+)\
 \[ <a href="https://arxiv.org/abs/2211.11661">arxiv</a> \] - under review at <strong>Advances in Applied Probability</strong>.
 
