@@ -47,16 +47,16 @@ In preparation
 with Neda M. Jouzdani, Piotr S. Kokoszka,  Hong Miao (2024+)\
 under review at <strong>Mathematical Finance</strong>
 
-2. <em> Random Flows of Covariance Operators and their Statistical Inference</em>.\
-with Victor M. Panaretos (2023)\
-\[ <a href="https://arxiv.org/abs/2310.13764">arxiv</a> \] - under review at <strong>Journal of the American Statistical Association</strong>
+2. <em> Statistical Inference for Bures-Wasserstein Flows</em>.\
+with Victor M. Panaretos (2024+)\
+\[ <a href="https://arxiv.org/abs/2310.13764">arxiv</a> \] - under review at <strong>Annals of Probability</strong>
 
 3. <em>Large Sample Theory for Bures-Wasserstein Barycenters</em>.\
-with Victor M. Panaretos (2023)\
+with Victor M. Panaretos (2023+)\
 \[ <a href="https://arxiv.org/abs/2305.15592">arxiv</a> \] - under review at <strong>Annals of Applied Probability</strong>.
 
 4. <em>Widths of crossings in Poisson Boolean percolation </em>.\
-with Ioan Manolescu (2022)\
+with Ioan Manolescu (2022+)\
 \[ <a href="https://arxiv.org/abs/2211.11661">arxiv</a> \] - under review at <strong>Advances in Applied Probability</strong>.
 
 
@@ -73,6 +73,6 @@ with Neda M. Jouzdani, Victor M. Panaretos (2021)\
 
 3. <em>A Karhunen–Loève Theorem for Random Flows in Hilbert spaces </em>.\
 with Kartik G. Waghmare, Victor M. Panaretos (2023)\
-<strong>Electronic Communications in Probability</strong> \[ <a href="https://arxiv.org/abs/2303.00702">arxiv</a> \]  .
+to appear in <strong>Electronic Communications in Probability</strong> \[ <a href="https://arxiv.org/abs/2303.00702">arxiv</a> \]  .
 
 <br />
