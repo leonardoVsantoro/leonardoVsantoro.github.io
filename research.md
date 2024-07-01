@@ -35,9 +35,6 @@ In preparation
 with  Tomas Masak and Francesco Tripoli (2024+)\
 In preparation
 
-# 3. <em> Analysis Methods for Spectral Light Exposure Timeseries Data using Neural Networks </em>.\
-# with  Steffen Hartmayer (2024+)\
-# In preparation
 
 <h3>Preprints</h3>
 
