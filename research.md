@@ -31,15 +31,13 @@ In preparation
 with  Victor M. Panaretos (2024+)\
 In preparation
 
-3. <em> Analysis Methods for Spectral Light Exposure Timeseries Data using Neural Networks </em>.\
-with  Steffen Hartmayer (2024+)\
-In preparation
-
-4. <em> Time Dynamics of Covid-19 and Social Distancing: Amplitude and Phase Variation of a pandemic</em>.\
+3. <em> Time Dynamics of Covid-19 and Social Distancing: Amplitude and Phase Variation of a pandemic</em>.\
 with  Tomas Masak and Francesco Tripoli (2024+)\
 In preparation
 
-
+# 3. <em> Analysis Methods for Spectral Light Exposure Timeseries Data using Neural Networks </em>.\
+# with  Steffen Hartmayer (2024+)\
+# In preparation
 
 <h3>Preprints</h3>
 
@@ -73,6 +71,8 @@ with Neda M. Jouzdani, Victor M. Panaretos (2021)\
 
 3. <em>A Karhunen–Loève Theorem for Random Flows in Hilbert spaces </em>.\
 with Kartik G. Waghmare, Victor M. Panaretos (2023)\
-to appear in <strong>Electronic Communications in Probability</strong> \[ <a href="https://arxiv.org/abs/2303.00702">arxiv</a> \]  .
+ <strong>Electronic Communications in Probability</strong>
+\[ <a href="[https://doi.org/10.1016/j.spa.2023.104239](https://projecteuclid.org/journals/electronic-communications-in-probability/volume-29/issue-none/A-KarhunenLo%c3%a8ve-theorem-for-random-flows-in-Hilbert-spaces/10.1214/24-ECP597.full)">journal</a>\] 
+\[ <a href="https://arxiv.org/abs/2303.00702">arxiv</a> \] 
 
 <br />
