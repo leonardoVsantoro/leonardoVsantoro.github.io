@@ -22,7 +22,8 @@ Preprints and accepted papers.
 -->
 
 
-<h3>In preparation </h3>
+<h3> In preparation </h3>
+
 1. <em> Isotonic regression for Covariance Cperators</em>.\
 with Victor M. Panaretors (2024+)\
 In preparation
