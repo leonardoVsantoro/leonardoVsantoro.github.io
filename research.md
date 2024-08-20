@@ -81,8 +81,7 @@ with Kartik G. Waghmare, Victor M. Panaretos (2023)\
 
 4. <em>Widths of crossings in Poisson Boolean percolation </em>.\
 with Ioan Manolescu (2022+)\
-\[ <a href="https://arxiv.org/abs/2211.11661">arxiv</a> \]
- <strong>Advances in Applied Probability</strong> (to appear)
+ <strong>Advances in Applied Probability</strong> \[ <a href="https://arxiv.org/abs/2211.11661">arxiv</a> \] (to appear)
 
 
 <br />
