@@ -60,10 +60,6 @@ with Victor M. Panaretos (2024+)\
 with Victor M. Panaretos (2023+)\
 \[ <a href="https://arxiv.org/abs/2305.15592">arxiv</a> \] - under review at <strong>Annals of Applied Probability</strong>.
 
-5. <em>Widths of crossings in Poisson Boolean percolation </em>.\
-with Ioan Manolescu (2022+)\
-\[ <a href="https://arxiv.org/abs/2211.11661">arxiv</a> \] - under review at <strong>Advances in Applied Probability</strong>.
-
 
 
 <h3>Accepted papers</h3>
@@ -81,5 +77,12 @@ with Kartik G. Waghmare, Victor M. Panaretos (2023)\
  <strong>Electronic Communications in Probability</strong>
 \[ <a href="[https://doi.org/10.1016/j.spa.2023.104239](https://projecteuclid.org/journals/electronic-communications-in-probability/volume-29/issue-none/A-KarhunenLo%c3%a8ve-theorem-for-random-flows-in-Hilbert-spaces/10.1214/24-ECP597.full)">journal</a>\] 
 \[ <a href="https://arxiv.org/abs/2303.00702">arxiv</a> \] 
+
+
+4. <em>Widths of crossings in Poisson Boolean percolation </em>.\
+with Ioan Manolescu (2022+)\
+\[ <a href="https://arxiv.org/abs/2211.11661">arxiv</a> \]
+ <strong>Advances in Applied Probability</strong> (to appear)
+
 
 <br />
