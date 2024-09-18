@@ -41,7 +41,7 @@ items:
 
 ---
 <p>
-  I am an incoming Postdoctoral researcher at EPFL in the chair of <a href="https://www.epfl.ch/labs/smat/">Mathematical Statistics</a>, where I obtained my PhD under the supervision of <a href="https://people.epfl.ch/victor.panaretos">Victor Panaretos</a>.
+  I am an incoming Postdoctoral researcher at EPFL in the chair of <a href="https://www.epfl.ch/labs/smat/">Mathematical Statistics</a>, where I obtained my PhD advised by <a href="https://people.epfl.ch/victor.panaretos">Victor Panaretos</a>.
 <p>
     
 <p>
