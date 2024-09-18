@@ -44,7 +44,7 @@ In preparation
 <h3>Preprints</h3>
 
 
-1. <em> Large Deviations for Wasserstein Barycenters</em>.\
+1. <em> Large Deviations for Bures-Wasserstein Barycenters</em>.\
 with  Adam Q. Jaffe (2024+)\
 \[ <a href="https://arxiv.org/abs/2409.11384">arxiv</a> \]- submitted to <strong>Probability Theory and Related Fields</strong>
 
