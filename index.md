@@ -8,16 +8,21 @@ profile_picture:
  
 item_title: Experience
 items:
-  - title: Oct. 2020 - current,   <a href="https://www.epfl.ch/en/">EPFL (Lausanne, CH)</a> 
+  - title: Oct. 2024 - ongoing,   <a href="https://www.epfl.ch/en/">EPFL (Lausanne, CH)</a> 
     image:
       src: /assets/img/career/epfl.png
       alt: epfl
-    description:  PhD candidate in Mathematical Statistics, supervised by prof. Victor Panaretos.
+    description:  Postdoctoral Researcher in the chair of Mathematical Statistics.
   - title: Sep. - Dec. 2023, <a href="https://www.berkeley.edu/">University of California Berkeley (US)</a> 
     image:
       src: assets/img/career/berkeley.png
       alt: ucb
     description:  Research stay hosted by prof. Steve Evans, fall semester.
+- title: Oct. 2020 - Sept. 2024,   <a href="https://www.epfl.ch/en/">EPFL (Lausanne, CH)</a> 
+    image:
+      src: /assets/img/career/epfl.png
+      alt: epfl
+    description:  PhD in in Mathematical Statistics, supervised by prof. Victor Panaretos.
   - title: Apr. - Oct. 2020,   <a href="https://teralytics.net/">Teralytics AG (Zürich, CH)</a> 
     image:
       src: /assets/img/career/teralytics.png
@@ -36,7 +41,7 @@ items:
 
 ---
 <p>
-  I am a PhD candidate at EPFL advised by <a href="https://people.epfl.ch/victor.panaretos">Victor Panaretos</a> in the chair of <a href="https://www.epfl.ch/labs/smat/">Mathematical Statistics</a>.
+  I am an incoming Postdoctoral researcher at EPFL in the chair of <a href="https://www.epfl.ch/labs/smat/">Mathematical Statistics</a>, where I obtained my PhD under the supervision of <a href="https://people.epfl.ch/victor.panaretos">Victor Panaretos</a>.
 <p>
     
 <p>
