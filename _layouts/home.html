@@ -19,13 +19,13 @@
       </div>
     </div>
 
-    
+    <!-- Experience Section -->
     <div class="page-content">
       <div class="wrapper">
         <div class="work">
-          <h1 class="page-heading">{{ page.item_title }}</h1>
+          <h1 class="page-heading">{{ page.item_title_experience }}</h1>
 
-          {% for item in page.items %}
+          {% for item in page.experience_items %}
           <div class="work-item">
             <img
               src="{{ item.image.src | absolute_url }}"
@@ -44,16 +44,13 @@
       </div>
     </div>
 
-
-
-
-<!-- 
+    <!-- Education Section -->
     <div class="page-content">
       <div class="wrapper">
         <div class="work">
-          <h1 class="page-heading">{{ page.item_title_1 }}</h1>
+          <h1 class="page-heading">{{ page.item_title_education }}</h1>
 
-          {% for item in page.items_1 %}
+          {% for item in page.education_items %}
           <div class="work-item">
             <img
               src="{{ item.image.src | absolute_url }}"
@@ -62,17 +59,16 @@
             />
             <span class="work-text">
               <strong>{{ item.title }}</strong>
-              &mdash;
+              <br>
               {{ item.description }}
             </span>
           </div>
           {% endfor %}
+          
         </div>
       </div>
     </div>
- -->
-    
-    
+
     {% include footer.html %}
 
     {% include foot.html %}
