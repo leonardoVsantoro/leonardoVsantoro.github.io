@@ -4,9 +4,9 @@ layout: home
 profile_picture:
   src: /assets/img/profile_picture.jpg
   alt: website picture
- 
-item_title: Experience
-items:
+
+item_title_experience: Experience
+experience_items:
   - title: Oct. 2024 - ongoing,   <a href="https://www.epfl.ch/en/">EPFL (Lausanne, CH)</a> 
     image:
       src: /assets/img/career/epfl.png
@@ -17,16 +17,19 @@ items:
       src: /assets/img/career/berkeley.png
       alt: ucb
     description:  Research stay hosted by prof. Steve Evans, fall semester.
-  - title: Oct. 2020 - Sept. 2024,   <a href="https://www.epfl.ch/en/">EPFL (Lausanne, CH)</a> 
-    image:
-      src: /assets/img/career/epfl.png
-      alt: epfl
-    description:  PhD in Mathematical Statistics, supervised by prof. Victor Panaretos.
   - title: Apr. - Oct. 2020,   <a href="https://teralytics.net/">Teralytics AG (Zürich, CH)</a> 
     image:
       src: /assets/img/career/teralytics.png
       alt: teralytics
     description: Machine Learning intern in the Data Science team.
+
+item_title_education: Education
+education_items:
+  - title: Oct. 2020 - Sept. 2024,   <a href="https://www.epfl.ch/en/">EPFL (Lausanne, CH)</a> 
+    image:
+      src: /assets/img/career/epfl.png
+      alt: epfl
+    description:  PhD in Mathematical Statistics, supervised by prof. Victor Panaretos.
   - title: Sept. 2018 - March 2020,  <a href="https://ethz.ch/en.html">ETH (Zürich, CH)</a> 
     image:
       src: /assets/img/career/eth.png
