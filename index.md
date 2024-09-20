@@ -1,6 +1,5 @@
 ---
 layout: home
-#title: Research
 profile_picture:
   src: /assets/img/profile_picture.jpg
   alt: website picture
@@ -11,12 +10,12 @@ experience_items:
     image:
       src: /assets/img/career/epfl.png
       alt: epfl
-    description:  Postdoctoral Researcher in the chair of Mathematical Statistics.
+    description: Postdoctoral Researcher in the chair of Mathematical Statistics.
   - title: Sep. - Dec. 2023, <a href="https://www.berkeley.edu/">University of California Berkeley (US)</a> 
     image:
       src: /assets/img/career/berkeley.png
       alt: ucb
-    description:  Research stay hosted by prof. Steve Evans, fall semester.
+    description: Research stay hosted by prof. Steve Evans, fall semester.
   - title: Apr. - Oct. 2020,   <a href="https://teralytics.net/">Teralytics AG (Zürich, CH)</a> 
     image:
       src: /assets/img/career/teralytics.png
@@ -29,18 +28,19 @@ education_items:
     image:
       src: /assets/img/career/epfl.png
       alt: epfl
-    description:  PhD in Mathematical Statistics, supervised by prof. Victor Panaretos.
+    description: PhD in Mathematical Statistics, supervised by prof. Victor Panaretos.
   - title: Sept. 2018 - March 2020,  <a href="https://ethz.ch/en.html">ETH (Zürich, CH)</a> 
     image:
       src: /assets/img/career/eth.png
       alt: eth
-    description:  Master's degree in Mathematics.
+    description: Master's degree in Mathematics.
   - title: Sept. 2015 - Jul. 2018,   <a href="https://www.unitn.it/">Università degli Studi di Trento (IT)</a> 
     image:
       src: /assets/img/career/unitn.png
       alt: unitn
-    description:  Bachelor's degree in Mathematics.
+    description: Bachelor's degree in Mathematics.
 ---
+
 <p>
   I am an incoming Postdoctoral researcher at EPFL in the chair of <a href="https://www.epfl.ch/labs/smat/">Mathematical Statistics</a>, where I obtained my PhD advised by <a href="https://people.epfl.ch/victor.panaretos">Victor Panaretos</a>.
 </p>
