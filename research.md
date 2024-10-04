@@ -46,19 +46,19 @@ In preparation
 
 1. <em> Large Deviations for Bures-Wasserstein Barycenters</em>.\
 with  Adam Q. Jaffe (2024+)\
-\[ <a href="https://arxiv.org/abs/2409.11384">arxiv</a> \]- submitted to <strong>Probability Theory and Related Fields</strong>
+\[ <a href="https://arxiv.org/abs/2409.11384">arXiv</a> \]- submitted to <strong>Probability Theory and Related Fields</strong>
 
 2. <em> Functional Vasicek Model </em>.\
 with Neda M. Jouzdani, Piotr S. Kokoszka,  Hong Miao (2024+)\
-under review at <strong>Mathematical Finance</strong>
+\[ <a href="https://www.researchgate.net/publication/384598436_Functional_Vasicek_Model">researchgate</a> \] - under review at <strong>Mathematical Finance</strong>
 
 3. <em> Statistical Inference for Bures-Wasserstein Flows</em>.\
 with Victor M. Panaretos (2024+)\
-\[ <a href="https://arxiv.org/abs/2310.13764">arxiv</a> \] - submitted to <strong>Annals of Statistics</strong>
+\[ <a href="https://arxiv.org/abs/2310.13764">arXiv</a> \] - submitted to <strong>Annals of Statistics</strong>
 
 4. <em>Large Sample Theory for Bures-Wasserstein Barycenters</em>.\
 with Victor M. Panaretos (2023+)\
-\[ <a href="https://arxiv.org/abs/2305.15592">arxiv</a> \] - under review at <strong>Annals of Applied Probability</strong>.
+\[ <a href="https://arxiv.org/abs/2305.15592">arXiv</a> \] - under review at <strong>Annals of Applied Probability</strong>.
 
 
 
@@ -70,18 +70,18 @@ with Federica M. Santoro et al (2022)\
 
 2. <em>Nonparametric Estimation for SDE with Sparsely Sampled Paths: an FDA Perspective </em>.\
 with Neda M. Jouzdani, Victor M. Panaretos (2021)\
-<strong>Stochastic Processes and their Applications</strong> \[ <a href="https://doi.org/10.1016/j.spa.2023.104239">journal</a>\] \[ <a href="https://arxiv.org/abs/2110.14433">arxiv</a> \]
+<strong>Stochastic Processes and their Applications</strong> \[ <a href="https://doi.org/10.1016/j.spa.2023.104239">journal</a>\] \[ <a href="https://arxiv.org/abs/2110.14433">arXiv</a> \]
 
 3. <em>A Karhunen–Loève Theorem for Random Flows in Hilbert spaces </em>.\
 with Kartik G. Waghmare, Victor M. Panaretos (2023)\
  <strong>Electronic Communications in Probability</strong>
 \[ <a href="https://projecteuclid.org/journals/electronic-communications-in-probability/volume-29/issue-none/A-KarhunenLo%C3%A8ve-theorem-for-random-flows-in-Hilbert-spaces/10.1214/24-ECP597.full">journal</a>\] 
-\[ <a href="https://arxiv.org/abs/2303.00702">arxiv</a> \] 
+\[ <a href="https://arxiv.org/abs/2303.00702">arXiv</a> \] 
 
 
 4. <em>Widths of crossings in Poisson Boolean percolation </em>.\
 with Ioan Manolescu (2022+)\
- <strong>Advances in Applied Probability</strong> \[ <a href="https://arxiv.org/abs/2211.11661">arxiv</a> \] (to appear)
+ <strong>Advances in Applied Probability</strong> \[ <a href="https://arxiv.org/abs/2211.11661">arXiv</a> \] (to appear)
 
 
 <br />
