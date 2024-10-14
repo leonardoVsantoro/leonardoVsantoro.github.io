@@ -24,7 +24,7 @@ Preprints and accepted papers.
 
 <h3> In preparation </h3>
 
-1. <em> Isotonic regression for Covariance Cperators</em>.\
+1. <em> Isotonic regression for partially ordered data</em>.\
 with Victor M. Panaretors (2024+)\
 In preparation
 
@@ -54,7 +54,7 @@ with Neda M. Jouzdani, Piotr S. Kokoszka,  Hong Miao (2024+)\
 
 3. <em> Statistical Inference for Bures-Wasserstein Flows</em>.\
 with Victor M. Panaretos (2024+)\
-\[ <a href="https://arxiv.org/abs/2310.13764">arXiv</a> \] - submitted to <strong>Annals of Statistics</strong>
+\[ <a href="https://arxiv.org/abs/2310.13764">arXiv</a> \] 
 
 4. <em>Large Sample Theory for Bures-Wasserstein Barycenters</em>.\
 with Victor M. Panaretos (2023+)\
