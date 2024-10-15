@@ -24,19 +24,23 @@ Preprints and accepted papers.
 
 <h3> In preparation </h3>
 
-1. <em> Isotonic regression for partially ordered data</em>.\
+1. <em> On Regularity of Bures-Wasserstein barycentres</em>.\
+with Adam Q. Jaffe and Yoav Zemel (2024+)\
+In preparation
+
+2. <em> Isotonic regression for partially ordered data</em>.\
 with Victor M. Panaretors (2024+)\
 In preparation
 
-2. <em> Covariance  Kernel Embeddings</em>.\
+3. <em> Covariance  Kernel Embeddings</em>.\
 with Kartik G. Waghmare, Victor M. Panaretos  (2024+)\
 In preparation
 
-3. <em> Functional Registration for Covariance Flows via Local Variation Measure </em>.\
+4. <em> Functional Registration for Covariance Flows via Local Variation Measure </em>.\
 with  Victor M. Panaretos (2024+)\
 In preparation
 
-4. <em> Time Dynamics of Covid-19 and Social Distancing: Amplitude and Phase Variation of a pandemic</em>.\
+5. <em> Time Dynamics of Covid-19 and Social Distancing: Amplitude and Phase Variation of a pandemic</em>.\
 with  Tomas Masak and Francesco Tripoli (2024+)\
 In preparation
 
