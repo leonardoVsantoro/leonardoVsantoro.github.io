@@ -61,7 +61,7 @@ with Victor M. Panaretos (2024+)\
 \[ <a href="https://arxiv.org/abs/2310.13764">arXiv</a> \] 
 
 4. <em>Large Sample Theory for Bures-Wasserstein Barycenters</em>.\
-with Victor M. Panaretos (2023+)\
+with Victor M. Panaretos (2024+)\
 \[ <a href="https://arxiv.org/abs/2305.15592">arXiv</a> \] - under review at <strong>Annals of Applied Probability</strong>.
 
 
@@ -72,19 +72,19 @@ with Victor M. Panaretos (2023+)\
 with Federica M. Santoro et al (2022)\
 <strong>Endocrine Pathology </strong> \[ <a href="https://pubmed.ncbi.nlm.nih.gov/35551625/">journal</a> \]
 
-2. <em>Nonparametric Estimation for SDE with Sparsely Sampled Paths: an FDA Perspective </em>.\
-with Neda M. Jouzdani, Victor M. Panaretos (2021)\
-<strong>Stochastic Processes and their Applications</strong> \[ <a href="https://doi.org/10.1016/j.spa.2023.104239">journal</a>\] \[ <a href="https://arxiv.org/abs/2110.14433">arXiv</a> \]
-
-3. <em>A Karhunen–Loève Theorem for Random Flows in Hilbert spaces </em>.\
+2. <em>A Karhunen–Loève Theorem for Random Flows in Hilbert spaces </em>.\
 with Kartik G. Waghmare, Victor M. Panaretos (2023)\
  <strong>Electronic Communications in Probability</strong>
 \[ <a href="https://projecteuclid.org/journals/electronic-communications-in-probability/volume-29/issue-none/A-KarhunenLo%C3%A8ve-theorem-for-random-flows-in-Hilbert-spaces/10.1214/24-ECP597.full">journal</a>\] 
 \[ <a href="https://arxiv.org/abs/2303.00702">arXiv</a> \] 
 
+3. <em>Nonparametric Estimation for SDE with Sparsely Sampled Paths: an FDA Perspective </em>.\
+with Neda M. Jouzdani, Victor M. Panaretos (2024)\
+<strong>Stochastic Processes and their Applications</strong> \[ <a href="https://doi.org/10.1016/j.spa.2023.104239">journal</a>\] \[ <a href="https://arxiv.org/abs/2110.14433">arXiv</a> \]
+
 
 4. <em>Widths of crossings in Poisson Boolean percolation </em>.\
-with Ioan Manolescu (2022+)\
+with Ioan Manolescu (2024)\
  <strong>Advances in Applied Probability</strong> \[ <a href="https://arxiv.org/abs/2211.11661">arXiv</a> \] (to appear)
 
 
