@@ -93,7 +93,7 @@ with Neda M. Jouzdani, Victor M. Panaretos (2024)\
 
 4. <em>Widths of crossings in Poisson Boolean percolation </em>.\
 with Ioan Manolescu (2024)\
- <strong>Advances in Applied Probability</strong> \[ <a href="https://arxiv.org/abs/2211.11661">arXiv</a> \] (to appear)
+ <strong>Journal of Applied Probability</strong> \[ <a href="https://www.cambridge.org/core/journals/journal-of-applied-probability">journal</a>\] \[ <a href="https://arxiv.org/abs/2211.11661">arXiv</a> \] 
 
 
 <br />
