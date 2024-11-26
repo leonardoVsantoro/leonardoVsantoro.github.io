@@ -66,7 +66,7 @@ with Neda M. Jouzdani, Piotr S. Kokoszka,  Hong Miao (2024+)\
 
 3. <em> Statistical Inference for Bures-Wasserstein Flows</em>.\
 with Victor M. Panaretos (2024+)\
-\[ <a href="https://arxiv.org/abs/2310.13764">arXiv</a> \] 
+\[ <a href="https://arxiv.org/abs/2310.13764">arXiv</a> \] - submitted to <strong>Bernoulli</strong>
 
 4. <em>Large Sample Theory for Bures-Wasserstein Barycenters</em>.\
 with Victor M. Panaretos (2024+)\
