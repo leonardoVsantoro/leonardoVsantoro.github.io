@@ -62,7 +62,7 @@ with  Adam Q. Jaffe (2024+)\
 
 2. <em> Functional Vasicek Model </em>.\
 with Neda M. Jouzdani, Piotr S. Kokoszka,  Hong Miao (2024+)\
-\[ <a href="https://www.researchgate.net/publication/384598436_Functional_Vasicek_Model">researchgate</a> \] - under review at <strong>Mathematical Finance</strong>
+\[ <a href="https://www.researchgate.net/publication/384598436_Functional_Vasicek_Model">researchgate</a> \] - submitted to <strong>Journal of Time Series Analysis</strong>
 
 3. <em> Statistical Inference for Bures-Wasserstein Flows</em>.\
 with Victor M. Panaretos (2024+)\
