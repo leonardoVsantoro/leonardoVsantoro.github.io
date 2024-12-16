@@ -53,3 +53,8 @@ This often brings me in close contact with pure/applied probability, optimisatio
 <p>
 You may find my full CV <a href="https://drive.google.com/file/d/1vbVCkMAPJfbvSXM5313bEKA4nZNGG7ME/view?usp=sharing">here</a>.
 </p>
+
+<p>
+For the code related to my papers and some personal side projects, see <a href="https://github.com/leonardoVsantoro">my GitHub</a>.
+</p>
+
