@@ -55,6 +55,6 @@ You may find my full CV <a href="https://drive.google.com/file/d/1vbVCkMAPJfbvSX
 </p>
 
 <p>
-For the code related to my papers and some personal side projects, see <a href="https://github.com/leonardoVsantoro">my GitHub</a>.
+For code and some side projects, see <a href="https://github.com/leonardoVsantoro">my GitHub</a>.
 </p>
 
