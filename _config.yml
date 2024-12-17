@@ -46,8 +46,6 @@ footer:
    #   link: http://weibo.com/u/YourWeiboUsername
    # - name: RSS
    #   link: /feed.xml
-    - name: ResearchGate
-      link: https://www.researchgate.net/profile/Leonardo-Santoro-2
     - name: GoogleScholar
       link: https://scholar.google.com/citations?user=1PB3OkEAAAAJ&hl=it&oi=sra
 
