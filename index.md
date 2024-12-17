@@ -31,16 +31,19 @@ education_items:
     image:
       src: /assets/img/career/epfl.png
       alt: EPFL logo
-    description: |
+    description: 
       PhD in Mathematical Statistics, supervised by Prof. Victor Panaretos.  
-      Thesis:  
+       <br> Thesis:  
       <a href='https://infoscience.epfl.ch/entities/publication/aa75f4d2-9826-49b3-9815-0774c09ee3c8/'>
       Statistics for Covariance Operators: Transport, Flows, and Diffusions</a>.
   - title: "Sep 2018 - Mar 2020, <a href='https://ethz.ch/en.html'>ETH Zürich (CH)</a>"
     image:
       src: /assets/img/career/eth.png
       alt: ETH Zürich logo
-    description: "Master's degree in Mathematics."
+    description: "Master's degree in Mathematics," supervised by Prof. Ioan Manolescu and Vincent Tassion.
+     <br> Thesis:  
+      <a href='https://www.cambridge.org/core/journals/journal-of-applied-probability/article/widths-of-crossings-in-poisson-boolean-percolation/2710058348665CBD213519F54430CCD5'>
+      Widths of crossings in Poisson Boolean percolation/a>.
   - title: "Sep 2015 - Jul 2018, <a href='https://www.unitn.it/'>Università degli Studi di Trento (IT)</a>"
     image:
       src: /assets/img/career/unitn.png
