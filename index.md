@@ -23,7 +23,7 @@ experience_items:
       src: /assets/img/career/teralytics.png
       alt: Teralytics logo
     description: "Machine Learning Intern in the Data Science team.  
-      <br><i>prototyping of probabilistic model to extract insights on human mobility from telco data using PGM and particle filters</i>"
+      <br><i>prototyping of probabilistic model to extract insights on human mobility <br>from telco data using PGM and particle filters</i>"
 
 item_title_education: Education
 education_items:
