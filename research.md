@@ -49,7 +49,7 @@ with  Victor M. Panaretos (2024+)\
 In preparation
 
 7. <em> Time Dynamics of Covid-19 and Social Distancing: Amplitude and Phase Variation of a pandemic</em>\
-with  Tomas Masak and Francesco Tripoli (2024+)
+with  Tomas Masak and Francesco Tripoli (2024+)\
 In preparation
 
 
