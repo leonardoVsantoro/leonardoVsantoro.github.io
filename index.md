@@ -10,7 +10,7 @@ experience_items:
     image:
       src: /assets/img/career/epfl.png
       alt: epfl
-    description: Postdoctoral Researcher in the chair of Mathematical Statistics.
+    description: Postdoctoral Researcher in the chair of Mathematical Statistics. 
   - title: Sep - Dec 2023, <a href="https://www.berkeley.edu/">University of California Berkeley (US)</a> 
     image:
       src: /assets/img/career/berkeley.png
@@ -28,7 +28,8 @@ education_items:
     image:
       src: /assets/img/career/epfl.png
       alt: epfl
-    description: PhD in Mathematical Statistics, supervised by prof. Victor Panaretos.
+    description:  PhD in Mathematical Statistics, supervised by prof. Victor Panaretos.\
+                  Thesis: <a href="https://infoscience.epfl.ch/entities/publication/aa75f4d2-9826-49b3-9815-0774c09ee3c8">Statistics for Covariance Operators: Transport, Flows, and Diffusions"</a> 
   - title: Sep 2018 - Mar 2020,  <a href="https://ethz.ch/en.html">ETH (Zürich, CH)</a> 
     image:
       src: /assets/img/career/eth.png
@@ -42,7 +43,7 @@ education_items:
 ---
 
 <p>
-  I am an incoming Postdoctoral researcher at EPFL in the chair of <a href="https://www.epfl.ch/labs/smat/">Mathematical Statistics</a>, where I obtained my PhD advised by <a href="https://people.epfl.ch/victor.panaretos">Victor Panaretos</a>.
+  I am a postdoctoral researcher at EPFL in the chair of <a href="https://www.epfl.ch/labs/smat/">Mathematical Statistics</a>, where I obtained my PhD advised by <a href="https://people.epfl.ch/victor.panaretos">Victor Panaretos</a>.
 </p>
 
 <p>
