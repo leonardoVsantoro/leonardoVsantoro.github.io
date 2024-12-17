@@ -10,17 +10,20 @@ experience_items:
     image:
       src: /assets/img/career/epfl.png
       alt: EPFL logo
-    description: "Postdoctoral Researcher in the Chair of Mathematical Statistics."
+    description: "Postdoctoral Researcher in the Chair of Mathematical Statistics.  
+      <br><i>statistical inference for random processes; inverse problems in high dimensional/functional data analysis; optimal transport.</i>"
   - title: "Sep - Dec 2023, <a href='https://www.berkeley.edu/'>University of California, Berkeley (US)</a>"
     image:
       src: /assets/img/career/berkeley.png
       alt: UC Berkeley logo
-    description: "Research stay hosted by Prof. Steve Evans during the fall semester."
+    description: "Research stay hosted by Prof. Steve Evans during the fall semester.  
+      <br><i>large deviations for barycenters</i>"
   - title: "Apr - Oct 2020, <a href='https://teralytics.net/'>Teralytics AG (Zürich, CH)</a>"
     image:
       src: /assets/img/career/teralytics.png
       alt: Teralytics logo
-    description: "Machine Learning Intern in the Data Science team."
+    description: "Machine Learning Intern in the Data Science team.  
+      <br><i>prototyping of probabilistic model to extract insights on human mobility from telco data using PGM and particle filters</i>"
 
 item_title_education: Education
 education_items:
@@ -43,7 +46,6 @@ education_items:
       src: /assets/img/career/unitn.png
       alt: University of Trento logo
     description: "Bachelor's degree in Mathematics."
-
 ---
 
 <p>
