@@ -12,7 +12,7 @@ Spring  2021                 Applied Biostatistics (prof. Darlene Goldstein)
 
 
 
-<h3>Mentoring</h3>
+<h3>Supervision</h3>
 Francesco Tripoli (Winter 2023, Master's thesis) <em> Amplitude and Phase variation of COVID-19 using Optimal Transport </em>\
 Fahim Beck (Spring 2023, Master's thesis) <em> Analysis methods for Spectral Light Exposure Timeseries Data</em>\
 Beji Qayis (Spring 2023, Master's project)<em> Computational Optimal Transport</em> \
