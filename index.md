@@ -46,8 +46,9 @@ education_items:
 </p>
 
 <p>
-I am interested in statistical inference for random processes and inverse problems arising in the context of high-dimensional and functional data analysis and optimal transport. 
-This often brings me in close contact with pure/applied probability, optimisation and data science.
+I am interested in statistical inference for random processes and inverse problems arising in the context of \textbf{high-dimensional} and \textbf{functional data analysis}, as well as \textbf{optimal transport}, with a focus on \textbf{optimization} and an eye toward real-world applications. While my work is rooted in statistics, it has deep connections to applied probability, data science and optimization.
+
+  
 </p>
 
 <p>
