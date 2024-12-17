@@ -29,8 +29,9 @@ education_items:
       src: /assets/img/career/epfl.png
       alt: EPFL logo
     description: |
-      PhD in Mathematical Statistics, supervised by Prof. Victor Panaretos. \
-      Thesis: <a href='https://infoscience.epfl.ch/entities/publication/aa75f4d2-9826-49b3-9815-0774c09ee3c8/'>
+      PhD in Mathematical Statistics, supervised by Prof. Victor Panaretos.  
+      Thesis:  
+      <a href='https://infoscience.epfl.ch/entities/publication/aa75f4d2-9826-49b3-9815-0774c09ee3c8/'>
       Statistics for Covariance Operators: Transport, Flows, and Diffusions</a>.
   - title: "Sep 2018 - Mar 2020, <a href='https://ethz.ch/en.html'>ETH Zürich (CH)</a>"
     image:
@@ -42,6 +43,7 @@ education_items:
       src: /assets/img/career/unitn.png
       alt: University of Trento logo
     description: "Bachelor's degree in Mathematics."
+
 ---
 
 <p>
