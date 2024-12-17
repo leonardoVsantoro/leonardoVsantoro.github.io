@@ -23,25 +23,25 @@ Preprints and accepted papers.
 
 
 <h3> In preparation </h3>
-1.  <em> Statistics and Geometry of Lp spaces Modulo Rotations </em>\
+
+1. <em> Covariance  Kernel Embeddings</em>\
+with Kartik G. Waghmare, Victor M. Panaretos  (2024+)\
+In preparation
+
+2.  <em> Statistics and Geometry of Lp spaces Modulo Rotations </em>\
 with Adam Q. Jaffe (2024+)\
 In preparation
 
-
-2. <em> Large Deviations for Regularised Wasserstein Barycenters</em>\
+3. <em> Large Deviations in M-estimation </em>\
 with Adam Q. Jaffe and Alexei Kroshnin (2024+)\
 In preparation
 
-3. <em> On Regularity of Bures-Wasserstein Barycentres</em>\
+4. <em> On Regularity of Bures-Wasserstein Barycentres</em>\
 with Adam Q. Jaffe and Yoav Zemel (2024+)\
 In preparation
 
-4. <em> Isotonic Regression for Partially Ordered Data</em>\
+5. <em> Isotonic Regression for Partially Ordered Data</em>\
 with Victor M. Panaretors (2024+)\
-In preparation
-
-5. <em> Covariance  Kernel Embeddings</em>\
-with Kartik G. Waghmare, Victor M. Panaretos  (2024+)\
 In preparation
 
 6. <em> Warping and Registration for Covariance Flows </em>\
@@ -49,8 +49,9 @@ with  Victor M. Panaretos (2024+)\
 In preparation
 
 7. <em> Time Dynamics of Covid-19 and Social Distancing: Amplitude and Phase Variation of a pandemic</em>\
-with  Tomas Masak and Francesco Tripoli (2024+)\
+with  Tomas Masak and Francesco Tripoli (2024+)
 In preparation
+
 
 
 <h3>Preprints</h3>
