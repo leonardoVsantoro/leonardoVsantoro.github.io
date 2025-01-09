@@ -9,12 +9,12 @@ items:
     image:
       src: /assets/img/research/ot.png
       alt: ot
-    description: Optimal transport (OT) arises as a mean for comparing probability measures. It endows the space of probability measures with a peculiar geometrical structure, paving the way for its application in statistics, machine learning, and applied mathematics.
+    description: Optimal transport (OT) provides a tool for comparing probability measures. It comes with a rich and peculiar geometrical structure, which allows for its application in statistics, machine learning, and applied mathematics.
   - title: Functional Data Analysis
     image:
       src: /assets/img/research/fda.png
       alt: fda
-    description: Functional data analysis (FDA) is a branch of statistics that analyses data providing information about curves, surfaces or anything else varying over a continuum. In its most general form, under an FDA framework, each sample element of functional data is considered to be a random function.
+    description: Functional data analysis (FDA) is a branch of statistics that analyses data providing information about curves, surfaces or anything else varying over a continuum.
 ---
 
 <!--- 
@@ -32,7 +32,7 @@ In preparation
 with Adam Q. Jaffe (2024+)\
 In preparation
 
-3. <em> Large Deviations in M-estimation </em>\
+3. <em> Implicit Geometry in M-estimation and Large Deviations </em>\
 with Adam Q. Jaffe and Alexei Kroshnin (2024+)\
 In preparation
 
