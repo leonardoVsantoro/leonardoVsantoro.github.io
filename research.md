@@ -28,7 +28,7 @@ Preprints and accepted papers.
 with Kartik G. Waghmare, Victor M. Panaretos  (2024+)\
 In preparation
 
-2.  <em> Statistics and Geometry of Lp spaces Modulo Rotations </em>\
+2.  <em> Statistics and Geometry of Images modulo rotations </em>\
 with Adam Q. Jaffe (2024+)\
 In preparation
 
