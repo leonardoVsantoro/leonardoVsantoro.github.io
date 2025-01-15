@@ -24,7 +24,7 @@ Preprints and accepted papers.
 
 <h3> In preparation </h3>
 
-1. <em> Covariance  Kernel Embeddings</em>\
+1. <em> Positive-Definite Embeddings for the Two-Sample Problem</em>\
 with Kartik G. Waghmare, Victor M. Panaretos  (2024+)\
 In preparation
 
