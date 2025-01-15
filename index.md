@@ -40,7 +40,7 @@ education_items:
     image:
       src: /assets/img/career/eth.png
       alt: ETH Zürich logo
-    description: "Master's degree in Mathematics, supervised by Prof. Ioan Manolescu and Vincent Tassion.  
+    description: "MSc degree in Mathematics, supervised by Prof. Ioan Manolescu and Vincent Tassion.  
       <br>Thesis:  
       <a href='https://www.cambridge.org/core/journals/journal-of-applied-probability/article/widths-of-crossings-in-poisson-boolean-percolation/2710058348665CBD213519F54430CCD5'>
       Widths of crossings in Poisson Boolean percolation</a>."
@@ -48,7 +48,7 @@ education_items:
     image:
       src: /assets/img/career/unitn.png
       alt: University of Trento logo
-    description: "Bachelor's degree in Mathematics."
+    description: "BSc degree in Mathematics."
 ---
 
 <p>
