@@ -40,7 +40,7 @@ education_items:
     image:
       src: /assets/img/career/eth.png
       alt: ETH Zürich logo
-    description: "MSc degree in Mathematics, supervised by Prof. Ioan Manolescu and Vincent Tassion.  
+    description: "MSc degree in Mathematics, supervised by Prof. Ioan Manolescu.
       <br>Thesis:  
       <a href='https://www.cambridge.org/core/journals/journal-of-applied-probability/article/widths-of-crossings-in-poisson-boolean-percolation/2710058348665CBD213519F54430CCD5'>
       Widths of crossings in Poisson Boolean percolation</a>."
